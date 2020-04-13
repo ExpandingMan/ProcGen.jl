@@ -1,6 +1,5 @@
 using ProcGen: WFC
 using Random, BenchmarkTools
-
 using ProcGen.WFC: Input, Output
 
 Random.seed!(999)
